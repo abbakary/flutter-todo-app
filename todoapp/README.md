@@ -17,11 +17,11 @@ Beautiful UI: Modern gradient background and smooth animations.
 
  Name                                   ID 
 
-AMALI MUROKOZI ABBAKARI              30917/T.2023
-JUMA MSANYA MUHAMEDI                 31006/T.2023
-YAHAYA ADAM YAHAYA                   30662/T.2023
-BERNARDO K MGAYWA                    32340/T.2023
-VICENT JUSTUS KIZALI                 31155/T.2023
+AMALI MUROKOZI ABBAKARI              30917/T.2023,
+JUMA MSANYA MUHAMEDI                 31006/T.2023,
+YAHAYA ADAM YAHAYA                   30662/T.2023,
+BERNARDO K MGAYWA                    32340/T.2023,  
+VICENT JUSTUS KIZALI                 31155/T.2023,  
 PRISCUS THADEO LUBANGO               31068/T.2023
 
 ## How to Run
