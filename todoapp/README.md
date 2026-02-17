@@ -28,7 +28,7 @@ PRISCUS THADEO LUBANGO               31068/T.2023
 
 1.  Clone the repository:
    
-    git clone https://github.com/abbakary/flutter-todo-app.git
+    git clone https://github.com/abbakary/flutter-todo-app.git  
     cd todoapp
 
 
