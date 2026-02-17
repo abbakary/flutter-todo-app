@@ -51,7 +51,7 @@ todoapp\lib\screenshots\main_screen.png
 
  
  Adding Task 
-todoapp\lib\screenshots\add_task.png
+todoapp\lib\screenshots\add_task.png  
 todoapp\lib\screenshots\add_task2.png
 
 
